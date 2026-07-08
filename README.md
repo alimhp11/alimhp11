@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Django backend, authentication, Telegram bots**
 
-- 📫 How to reach me **Telegram: @alimhp**
+- 📫 How to reach me **Telegram: @alinoxv**
 
 - 📄 Know about my experiences [GitHub profile & pinned repositories](GitHub profile & pinned repositories)
 
