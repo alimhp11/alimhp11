@@ -1,26 +1,87 @@
-<h1 align="center">Hi 👋, I'm ali.m</h1>
-<h3 align="center">A passionate frontend developer from Iran</h3>
+<!-- Profile README for github.com/alimhp11 -->
 
-- 🔭 I’m currently working on **Advanced Django backend projects (Auth, Payments, APIs)**
+<div align="center">
 
-- 🌱 I’m currently learning **Django, Django REST Framework, Clean Architecture**
+# Hey, I'm Ali 👋
 
-- 👯 I’m looking to collaborate on **Backend-heavy web applications**
+### Python Backend Developer · Django & REST APIs
 
-- 👨‍💻 All of my projects are available at [https://github.com/alimhp11](https://github.com/alimhp11)
+I build backend systems, Telegram bots, and practical digital products — one commit at a time.
 
-- 📝 I regularly write articles on [Coming soon...](Coming soon...)
+[![GitHub followers](https://img.shields.io/github/followers/alimhp11?label=Followers&style=flat&logo=github)](https://github.com/alimhp11?tab=followers)
+[![Profile views](https://komarev.com/ghpvc/?username=alimhp11&style=flat&color=blueviolet)](https://github.com/alimhp11)
 
-- 💬 Ask me about **Django backend, authentication, Telegram bots**
+</div>
 
-- 📫 How to reach me **Telegram: @alinoxv**
+---
 
-- 📄 Know about my experiences [GitHub profile & pinned repositories](GitHub profile & pinned repositories)
+## 👨‍💻 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/alimhp11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alimhp11" height="30" width="40" /></a>
+- 🇮🇷 Developer from Iran, currently studying at university.
+- 🐍 Focused on **Python backend development** with Django and Django REST Framework.
+- 🔐 Building APIs with authentication, permissions, and secure transaction workflows.
+- 🤖 Interested in Telegram bots, automation, and SaaS products.
+- 🧱 Learning by building real projects and understanding how things work under the hood.
+- 🤝 Open to collaborating on backend-focused projects and useful developer tools.
+
+> My goal is to build reliable software that solves real problems — not just write code that works once.
+
+## 🛠️ Tech Stack
+
+### Core
+<p>
+  <img src="https://skillicons.dev/icons?i=python,django,sqlite,postgres,git,github,docker" alt="Python, Django, SQLite, PostgreSQL, Git, GitHub and Docker" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+### Backend Topics
+**Django REST Framework** · **REST APIs** · **JWT Authentication** · **Permissions & RBAC** · **Database Transactions** · **Idempotency** · **Pagination & Filtering**
+
+### Currently Exploring
+**PostgreSQL** · **Production Deployment** · **Redis & Background Tasks** · **Clean Architecture**
+
+## 🚀 Projects I'm Building
+
+### 🌳 ALVORA ONE
+A Telegram-based digital product platform focused on bringing useful services and tools together.
+
+- Django backend and API-driven workflows
+- User accounts, referrals, and wallet functionality
+- Transaction safety with database locking and idempotency
+- Telegram bot integration
+
+### 🛡️ ALVORA GUARD
+A Telegram group-management bot focused on making communities safer and easier to manage.
+
+- Anti-spam and Persian text filtering
+- Group welcome and moderation workflows
+- Admin guidance and support-ticket flows
+
+### 🔧 Mechanic Finder
+A local-service discovery concept designed to help people find mechanics and repair services more easily.
+
+*These projects are in development; features and scope may evolve.*
+
+## 📊 GitHub Overview
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=alimhp11&show_icons=true&hide_border=true&rank_icon=github" alt="Ali's GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alimhp11&layout=compact&hide_border=true" alt="Most used languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=alimhp11&hide_border=true" alt="GitHub contribution streak" />
+</div>
+
+## 📬 Connect With Me
+
+- **Telegram:** [@alinoxv](https://t.me/alinoxv)
+- **Instagram:** [@alimhp11](https://instagram.com/alimhp11)
+- **GitHub:** [@alimhp11](https://github.com/alimhp11)
+
+---
+
+<div align="center">
+
+**Always learning. Always building. 🌱**
+
+</div>
